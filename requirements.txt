@@ -6,7 +6,6 @@ Pillow==11.0.0
 plotly==5.24.1
 python-dotenv==1.0.1
 PyYAML==6.0.2
-PyYAML==6.0.2
 Requests==2.32.3
 scikit_learn==1.6.0
 streamlit==1.41.1
